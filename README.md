@@ -49,3 +49,6 @@ Q_CLUSTER = {
 }
 ```
 
+## Reference
+- https://github.com/Koed00/django-q
+- https://django-q.readthedocs.io/en/latest/index.html
